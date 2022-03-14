@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 一名来自 [广东东软学院](https://www.nuit.edu.cn/) 计算机专业的大三学生
+- 🔭 一名来自 [深圳职业技术学院](https://www.szpt.edu.cn) ~~[广东东软学院](https://www.nuit.edu.cn/)~~ 计算机专业的大三学生
 - 💻 菜鸟前后端开发 🎈 伪系统运维 🏗 作为打工人摸🐟中
 - 💪 在为了成为一名优秀的软件工程师而努力着
 - 🧑‍💻 主要语言及技术栈
