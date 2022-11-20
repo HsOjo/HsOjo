@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 🔭 一名来自 ~~[广东东软学院](https://www.nuit.edu.cn/)~~ 计算机专业的大四学生
 - 💻 会点 Python, Web 前后端开发
 - 💬 QQ: 1134031392
-- 📧 Email: hsojo@qq.com
 
 
 ![HsOjo's GitHub stats](https://github-readme-stats-liart-theta.vercel.app/api?username=HsOjo&count_private=true&show_icons=true&include_all_commits=true&hide_title=true)
