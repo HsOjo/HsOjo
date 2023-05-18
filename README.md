@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 <img src="https://count.getloli.com/get/@:HsOjo" alt=":HsOjo" width="20%" /> 
 
-- 🔭 一名来自 ~~[广东东软学院](https://www.nuit.edu.cn/)~~ 计算机专业的大四学生
-- 💻 会点 Python, Web 前后端开发
+- 🔭 毕业于 NUIT，在某教育方向工作室当全栈 ~~(干)~~ 工程师
+- 💻 Pythonista，对 Web、客户端、云计算方向稍有涉猎
+- 💬 QQ: MTEzNDAzMTM5Mgo=
 
 <p>
   <img src="https://github-readme-stats-liart-theta.vercel.app/api?username=HsOjo&count_private=true&show_icons=true&include_all_commits=true&hide_title=true" width="50%"/>
